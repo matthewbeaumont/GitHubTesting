@@ -1,3 +1,5 @@
 This is a test file, 
 
 here is some text.
+
+Try resetting after this is staged. 
