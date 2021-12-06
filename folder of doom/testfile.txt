@@ -2,4 +2,4 @@ This is a test file,
 
 here is some text.
 
-This change was made 06.12.2021.
+This change was made 06.12.2021. It was then deleted with git reset 12345 followed by git push origin main --force. I am now trying to add to the file. 
